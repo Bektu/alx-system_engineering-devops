@@ -1,1 +1,2 @@
-Script status
+#!/bin/bash
+pwd     
