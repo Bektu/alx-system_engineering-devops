@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1aAphm 
+ls -1aAphm . 
