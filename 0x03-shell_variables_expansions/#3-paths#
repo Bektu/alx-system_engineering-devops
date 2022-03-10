@@ -1,0 +1,8 @@
+
+
+
+
+
+
+0;276;0cz#!/bin/bash
+find -type d/*| wc -1
